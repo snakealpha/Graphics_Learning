@@ -26,3 +26,5 @@
 *.exe
 *.out
 *.app
+/dx/d3d1/d3d1.VC.db
+/dx/d3d1/d3d1.VC.VC.opendb
